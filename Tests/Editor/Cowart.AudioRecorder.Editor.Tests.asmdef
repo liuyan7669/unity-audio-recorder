@@ -1,0 +1,14 @@
+{
+  "name": "Cowart.AudioRecorder.Editor.Tests",
+  "rootNamespace": "Cowart.AudioRecorder.Tests",
+  "references": [
+    "Cowart.AudioRecorder"
+  ],
+  "includePlatforms": [
+    "Editor"
+  ],
+  "optionalUnityReferences": [
+    "TestAssemblies"
+  ],
+  "autoReferenced": false
+}

@@ -1,0 +1,39 @@
+{
+  "name": "com.cowart.audio-recorder",
+  "version": "1.0.0",
+  "displayName": "Audio Recorder",
+  "description": "通过唯一静态入口在 Unity Editor、Windows、Android 与 WebGL 中录制语音，交付完整 PCM16 WAV 与实时 PCM 块，并提供异步分帧 AudioClip 转换和原生实时流式 Clip 会话。",
+  "unity": "2021.3",
+  "author": {
+    "name": "Cowart"
+  },
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/liuyan7669/unity-audio-recorder.git"
+  },
+  "dependencies": {
+    "com.unity.modules.androidjni": "1.0.0",
+    "com.unity.modules.audio": "1.0.0",
+    "com.unity.modules.imgui": "1.0.0",
+    "com.unity.ugui": "1.0.0"
+  },
+  "keywords": [
+    "audio",
+    "microphone",
+    "recorder",
+    "webgl"
+  ],
+  "samples": [
+    {
+      "displayName": "Basic Usage",
+      "description": "演示唯一静态入口、5/30/60 分钟上限、完整 WAV、实时 PCM 与 AudioClip 转换；不要求安装 File Bridge。",
+      "path": "Samples~/Basic Usage"
+    },
+    {
+      "displayName": "UGUI Usage",
+      "description": "可导入的纯录音 UGUI 场景，演示 5/30/60 分钟上限、完整 WAV、实时 PCM、播放和运行状态；不依赖 File Bridge。",
+      "path": "Samples~/UGUI Usage"
+    }
+  ]
+}

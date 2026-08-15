@@ -1,0 +1,7 @@
+{
+  "name": "Cowart.WebGLBridge",
+  "rootNamespace": "Cowart.WebGLBridge",
+  "references": [
+    "Cowart.AudioRecorder"
+  ]
+}
