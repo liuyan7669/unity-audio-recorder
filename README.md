@@ -101,7 +101,7 @@ com.cowart.audio-recorder
 ### 通过 Git URL 安装
 
 ```text
-https://github.com/liuyan7669/unity-audio-recorder.git#1.0.0
+https://github.com/liuyan7669/unity-audio-recorder.git#1.0.1
 ```
 
 ### Package Manager 从磁盘安装

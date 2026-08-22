@@ -1,6 +1,6 @@
 {
   "name": "com.cowart.audio-recorder",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "displayName": "Audio Recorder",
   "description": "通过唯一静态入口在 Unity Editor、Windows、Android 与 WebGL 中录制语音，交付完整 PCM16 WAV 与实时 PCM 块，并提供异步分帧 AudioClip 转换和原生实时流式 Clip 会话。",
   "unity": "2021.3",
